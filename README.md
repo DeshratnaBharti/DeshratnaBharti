@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/deshratnab" target="blank"><img src="https://img.shields.io/twitter/follow/deshratnab?logo=twitter&style=for-the-badge" alt="deshratnab" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development and solving Striver's A2Z Sheet.**
+- 🌱 I’m currently learning **Web Development,solving Striver's A2Z Sheet and system design.**
 
 - 📫 How to reach me **deshratnabharti597@gmail.com**
 
